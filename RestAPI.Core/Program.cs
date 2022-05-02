@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RestAPI
+namespace RestAPI.Core
 {
     class Program
     {
